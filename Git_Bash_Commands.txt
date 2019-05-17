@@ -1,0 +1,35 @@
+pwd
+  - shows current working directory
+
+mkdir
+  - creates a new folder
+
+cd
+  - changes directory
+
+echo "Text here" >> filename.txt
+  - creates a file with text specified
+
+ls
+  - lists contents of current directory
+
+git version
+  - shows version
+
+git config --global [user.name, user.email] "string"
+  - specify global variables
+
+git config --global --list
+  - shows global variables
+
+git status
+  - shows status of files in working, staging and master
+
+git add file.ext
+  - adds specified file to staging area
+
+git commit -m "note for the commit"
+  - Commits what in staging with specified comment
+
+git push origin master
+  - Commits local repository to master repository
